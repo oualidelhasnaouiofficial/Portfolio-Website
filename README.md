@@ -27,7 +27,7 @@
        width="100%" style="border-radius: 12px;" />
   
 </p>
-## 🔗 Quick Access
+
 
 <p align="center">
   <a href="https://oualidelhasnaoui.site" target="_blank">
