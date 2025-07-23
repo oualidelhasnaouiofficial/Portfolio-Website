@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    A professional, multilingual, and fully customizable personal website built with Laravel, Botble CMS, and Bootstrap 5.
+    A professional, multilingual, and fully customizable personal website built with Laravel and Bootstrap 5.
   </strong><br/>
   Showcasing your skills, experience, and projects in the most elegant digital format possible.
 </p>
@@ -30,7 +30,7 @@
 - ✨ Pixel-perfect interface  
 - 🌍 Multilingual & RTL built-in  
 - 🧠 AI content-ready  
-- 🔐 Admin dashboard with CMS (Botble)  
+- 🔐 Admin dashboard
 - 📱 Mobile-first layout  
 - 📈 SEO & Analytics ready
 
@@ -100,7 +100,7 @@ This guide walks you through deploying your **Laravel-based portfolio website  *
 
 - ✔️ Active domain (e.g., `oualidelhasnaoui.site`)
 - ✔️ Hostinger hosting plan (Shared or Premium)
-- ✔️ Laravel project (Botble CMS or custom)
+- ✔️ Laravel project 
 - ✔️ MySQL database credentials
 
 ---
