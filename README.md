@@ -9,7 +9,7 @@
 
 <!-- Main Hero Image (for both web & print) -->
 <p align="center">
-  <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/Screenshot%202025-07-23%20064301.png"
+  <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/OUALID%20EL%20HASNAOUI.png"
        alt="Hero Screen"
        width="85%"
        style="border-radius: 16px;" />
