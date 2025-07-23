@@ -27,6 +27,25 @@
        width="100%" style="border-radius: 12px;" />
   
 </p>
+## 🔗 Quick Access
+
+<p align="center">
+  <a href="https://oualidelhasnaoui.site" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit Website-000000?style=for-the-badge" />
+  </a>
+  <a href="https://oualidelhasnaoui.site/services" target="_blank">
+    <img src="https://img.shields.io/badge/🛠️_Services-6c63ff?style=for-the-badge" />
+  </a>
+  <a href="https://oualidelhasnaoui.site/projects" target="_blank">
+    <img src="https://img.shields.io/badge/📁_All Projects-28a745?style=for-the-badge" />
+  </a>
+  <a href="https://oualidelhasnaoui.site/storage/phto-pr/2025-cv-professionnel-oualid-elh.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View CV-blue?style=for-the-badge" />
+  </a>
+  <a href="https://oualidelhasnaoui.site/admin/login" target="_blank">
+    <img src="https://img.shields.io/badge/🔐_Admin Dashboard-dd2c00?style=for-the-badge" />
+  </a>
+</p>
 
 ## 🧭 Overview
 
