@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Botble-CMS-lightgrey?style=for-the-badge" />
 </p>
 
 ---
