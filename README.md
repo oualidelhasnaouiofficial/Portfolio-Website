@@ -9,7 +9,7 @@
 
 <!-- Main Hero Image (for both web & print) -->
 <p align="center">
-  <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/OUALID%20EL%20HASNAOUI.png"
+  <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/Screenshot%202025-07-23%20064301.pngI.png"
        alt="Hero Screen"
        width="85%"
        style="border-radius: 16px;" />
@@ -22,6 +22,11 @@
 🌍 Deployed at: [**oualidelhasnaoui.site**](https://oualidelhasnaoui.site)
 
 ---
+<p align="center">
+  <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/OUALID%20EL%20HASNAOUI%20(1).png"
+       width="100%" style="border-radius: 12px;" />
+  
+</p>
 
 ## 🧭 Overview
 
@@ -35,10 +40,11 @@
 - 📈 SEO & Analytics ready
 
 ---
-
 ## 🖼️ Screenshots (Web + Print Ready)
 
 <p align="center">
+    <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/Screenshot%202025-07-23%20064301.png"
+       width="100%" style="border-radius: 12px;" />
   <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/Screenshot%202025-07-23%20080438.png"
        width="100%" style="border-radius: 12px;" />
   <img src="https://github.com/oualidelhasnaouiofficial/44/blob/main/Screenshot%202025-07-23%20080817.png"
